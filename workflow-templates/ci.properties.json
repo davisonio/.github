@@ -1,0 +1,4 @@
+{
+  "name": "CI",
+  "description": "Basic CI workflow with build and test steps"
+}
